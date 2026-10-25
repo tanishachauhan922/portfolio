@@ -1,0 +1,84 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1600 >>
+stream
+BT
+/F1 22 Tf
+50 740 Td
+(Tanisha Chauhan) Tj
+/F1 12 Tf
+0 -24 Td
+(Pre-final-year B.Tech Computer Science Student | Full-Stack Developer) Tj
+0 -16 Td
+(G.L. Bajaj Institute of Technology and Management | Expected Graduation: 2028) Tj
+0 -24 Td
+(Email: tanishachauhan.dev@example.com | Location: India) Tj
+0 -30 Td
+/F1 14 Tf
+(EDUCATION) Tj
+/F1 11 Tf
+0 -18 Td
+(Bachelor of Technology in Computer Science and Engineering) Tj
+0 -14 Td
+(G.L. Bajaj Institute of Technology and Management | Expected Graduation: 2028) Tj
+0 -30 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+/F1 11 Tf
+0 -18 Td
+(Languages: C++, JavaScript (ES6+), Python (Currently Learning)) Tj
+0 -16 Td
+(Core CS: Data Structures & Algorithms (DSA), OOPs, Problem Solving) Tj
+0 -16 Td
+(Frontend: React.js, Tailwind CSS, HTML5, CSS3, Modern UI/UX) Tj
+0 -16 Td
+(Backend & DB: Node.js, Express.js, MongoDB, RESTful APIs) Tj
+0 -16 Td
+(Developer Tools: Git, GitHub, Postman, Vite, Cloudinary, Vercel) Tj
+0 -30 Td
+/F1 14 Tf
+(FEATURED PROJECTS) Tj
+/F1 11 Tf
+0 -18 Td
+(1. AI Ad Generator - Full-Stack MERN + Gemini AI + Cloudinary) Tj
+0 -14 Td
+(   Live Demo: https://ai-ad-generator-seven.vercel.app/) Tj
+0 -14 Td
+(   Generated tailored ad copy and creative assets with persistent MongoDB storage.) Tj
+0 -20 Td
+(2. Expense Tracker / Budget Tracker - React + LocalStorage + Charts) Tj
+0 -14 Td
+(   Live Demo: https://expense-tracker-pi-mauve-78.vercel.app/) Tj
+0 -14 Td
+(   Tracked daily income/expenses with categories, visual charts, and LocalStorage.) Tj
+0 -30 Td
+/F1 10 Tf
+(Note: Replace this file at public/resume.pdf with your latest complete resume PDF.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1963
+%%EOF
