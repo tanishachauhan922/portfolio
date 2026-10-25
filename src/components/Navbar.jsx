@@ -74,7 +74,7 @@ export default function Navbar() {
               title="Download Tanisha's Resume (PDF)"
             >
               <FileDown className="w-4 h-4 text-neutral-700" />
-              <span className="hidden xs:inline">Resume</span>
+              <span className="hidden sm:inline">Resume</span>
             </a>
 
             {/* Mobile Menu Button */}

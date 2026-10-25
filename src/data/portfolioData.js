@@ -110,7 +110,7 @@ export const skillsData = [
     category: "AI & API Integration",
     description: "Integrating intelligent models and cloud media APIs",
     skills: [
-      { name: "Gemini AI", note: "Dynamic ad copy, prompt engineering & generation", level: "Proficient" },
+      { name: "Google AI API", note: "AI-powered ad copy generation & prompt engineering", level: "Proficient" },
       { name: "Cloudflare AI", note: "Edge AI inference models and processing", level: "Familiar" },
       { name: "Magic Hour API", note: "AI video and creative asset generation", level: "Familiar" },
       { name: "Cloudinary", note: "Cloud media uploads & asset delivery optimization", level: "Proficient" },
@@ -136,14 +136,14 @@ export const projectsData = [
     badge: "Full-Stack AI Platform",
     tagline: "AI-powered web application for customized advertising creatives",
     description:
-      "AI Ad Generator is an AI-powered web application that helps users create customized advertising creatives with minimal effort. Users can generate ad content and visuals based on their product, target audience, language, and preferred social media format. Built using React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Gemini AI, and Cloudinary, it simplifies the ad creation process and helps users create engaging promotional content.",
+      "AI Ad Generator is an AI-powered web application that helps users create customized advertising creatives with minimal effort. Users can generate ad content and visuals based on their product, target audience, language, and preferred social media format. Built using React.js, Tailwind CSS, Node.js, Express.js, MongoDB, and Cloudinary, it simplifies the ad creation process and helps users create engaging promotional content.",
     technologies: [
       "React.js",
       "Tailwind CSS",
       "Node.js",
       "Express.js",
       "MongoDB Atlas",
-      "Gemini AI",
+      "Google AI API",
       "Cloudflare AI",
       "Magic Hour API",
       "Cloudinary",
@@ -153,7 +153,7 @@ export const projectsData = [
     features: [
       "Built and deployed a full-stack platform for creating AI-generated image and video ad creatives with customizable formats, platforms, languages, and visual styles.",
       "Implemented user authentication, reusable customizable templates, project management, an AI critic feature, and a dashboard for user activity.",
-      "Integrated AI and third-party APIs (Gemini AI, Cloudflare AI, Magic Hour API) to generate ad copy, headlines, descriptions, and creative prompts from user-defined campaign requirements.",
+      "Integrated AI and third-party APIs (Cloudflare AI, Magic Hour API) to generate ad copy, headlines, descriptions, and creative prompts from user-defined campaign requirements.",
       "Troubleshot API limits and frontend–backend integration issues; stored media in Cloudinary and application data in MongoDB Atlas.",
       "Deployed the frontend on Vercel and the backend on Render as separate services.",
     ],

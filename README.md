@@ -11,7 +11,7 @@ Built with **React.js**, **Tailwind CSS**, and **Vite**, featuring a clean white
 - **AI Ad Generator — AI Advertisement Creative Studio**
   - **Live Demo**: [https://ai-ad-generator-seven.vercel.app/](https://ai-ad-generator-seven.vercel.app/)
   - **GitHub Repo**: [https://github.com/tanishachauhan922/AI-AD-Generator](https://github.com/tanishachauhan922/AI-AD-Generator)
-  - **Tech Stack**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB Atlas, Cloudflare AI, Gemini API, Magic Hour API, Cloudinary, Vercel, Render
+  - **Tech Stack**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB Atlas, Cloudflare AI, Magic Hour API, Cloudinary, Vercel, Render
 - **Budget Tracker App**
   - **Live Demo**: [https://expense-tracker-pi-mauve-78.vercel.app/](https://expense-tracker-pi-mauve-78.vercel.app/)
   - **GitHub Repo**: [https://github.com/tanishachauhan922/Expense-Tracker](https://github.com/tanishachauhan922/Expense-Tracker)

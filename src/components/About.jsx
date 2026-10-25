@@ -61,7 +61,7 @@ export default function About() {
                   Full-Stack & AI Integration
                 </div>
                 <p className="text-xs text-neutral-600 leading-normal">
-                  Building responsive applications with React, Express, MongoDB Atlas, Cloudflare AI, and Gemini API.
+                  Building responsive applications with React, Express, MongoDB Atlas, Cloudflare AI, and AI API integrations.
                 </p>
               </div>
             </div>
