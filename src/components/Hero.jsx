@@ -20,9 +20,9 @@ export default function Hero() {
             {/* Status Pill */}
             <div className="inline-flex items-center gap-2 self-start px-3.5 py-1.5 rounded-full bg-neutral-100/90 border border-neutral-200/80 text-neutral-800 text-xs font-medium tracking-tight shadow-2xs">
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-              <span>Pre-final-year B.Tech CS Student</span>
+              <span>Pre-final-year B.Tech CS (2024–2028)</span>
               <span className="text-neutral-400">•</span>
-              <span className="text-neutral-600 font-normal">G.L. Bajaj ITM '28</span>
+              <span className="text-neutral-600 font-normal">G.L. Bajaj ITM • SGPA: {personalInfo.education.sgpa}</span>
             </div>
 
             {/* Main Headline */}
@@ -37,19 +37,19 @@ export default function Hero() {
 
             {/* Introduction */}
             <p className="text-base sm:text-lg text-neutral-600 leading-relaxed max-w-2xl font-normal">
-              Pre-final-year Computer Science undergraduate at <strong className="text-neutral-900 font-semibold">G.L. Bajaj Institute of Technology and Management</strong> (Expected 2028). Passionate about Data Structures and Algorithms, full-stack web engineering, and building practical software projects. Currently expanding my skillset into Python.
+              Pre-final-year Computer Science undergraduate at <strong className="text-neutral-900 font-semibold">G.L. Bajaj Institute of Technology and Management</strong> (Expected 2028, SGPA: 8.755). Passionate about Data Structures and Algorithms with <strong className="text-neutral-900 font-semibold">350+ LeetCode problems solved</strong> and building practical full-stack web applications. Currently learning Python for AI & Machine Learning.
             </p>
 
             {/* Quick badges */}
             <div className="flex flex-wrap gap-2 pt-1">
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-xs font-medium bg-neutral-100 text-neutral-700 border border-neutral-200/70">
-                <Code2 className="w-3.5 h-3.5 text-neutral-600" /> C++ & DSA
+                <Code2 className="w-3.5 h-3.5 text-neutral-600" /> 350+ LeetCode (C++)
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-xs font-medium bg-neutral-100 text-neutral-700 border border-neutral-200/70">
                 <Terminal className="w-3.5 h-3.5 text-neutral-600" /> React & Node.js
               </span>
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-xs font-medium bg-neutral-100 text-neutral-700 border border-neutral-200/70">
-                <Sparkles className="w-3.5 h-3.5 text-neutral-600" /> Currently learning Python
+                <Sparkles className="w-3.5 h-3.5 text-neutral-600" /> Python for AI & ML
               </span>
             </div>
 
@@ -118,7 +118,7 @@ export default function Hero() {
                       {personalInfo.education.institution}
                     </p>
                     <p className="text-xs text-emerald-600 font-medium mt-0.5">
-                      Class of {personalInfo.education.expectedGraduation} • Pre-final Year
+                      Class of {personalInfo.education.expectedGraduation} • SGPA: {personalInfo.education.sgpa}
                     </p>
                   </div>
                 </div>
@@ -126,21 +126,21 @@ export default function Hero() {
                 {/* Structured Overview List */}
                 <div className="space-y-3 pt-2 border-t border-neutral-100 text-sm">
                   <div className="flex justify-between items-start py-1">
-                    <span className="text-neutral-500 text-xs font-medium uppercase tracking-wider">Focus</span>
+                    <span className="text-neutral-500 text-xs font-medium uppercase tracking-wider">DSA Practice</span>
                     <span className="text-neutral-900 font-medium text-right text-xs">
-                      Data Structures & Web Engineering
+                      350+ Solved on LeetCode (C++)
                     </span>
                   </div>
                   <div className="flex justify-between items-start py-1 border-t border-neutral-100">
                     <span className="text-neutral-500 text-xs font-medium uppercase tracking-wider">Core Stack</span>
                     <span className="text-neutral-900 font-medium text-right text-xs">
-                      React • Node • Express • Mongo
+                      React • Node • Express • MongoDB
                     </span>
                   </div>
                   <div className="flex justify-between items-start py-1 border-t border-neutral-100">
-                    <span className="text-neutral-500 text-xs font-medium uppercase tracking-wider">Languages</span>
+                    <span className="text-neutral-500 text-xs font-medium uppercase tracking-wider">Next Focus</span>
                     <span className="text-neutral-900 font-medium text-right text-xs">
-                      C++, JavaScript, Python (learning)
+                      Python for AI & Machine Learning
                     </span>
                   </div>
                   <div className="flex justify-between items-start py-1 border-t border-neutral-100">
@@ -161,10 +161,10 @@ export default function Hero() {
                     <span>→</span>
                   </a>
                   <a
-                    href="#skills"
+                    href="#coding-profiles"
                     className="text-xs font-medium text-neutral-500 hover:text-neutral-900 transition-colors"
                   >
-                    View Skills
+                    LeetCode & GitHub
                   </a>
                 </div>
 
